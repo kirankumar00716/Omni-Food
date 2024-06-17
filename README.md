@@ -1,1 +1,1 @@
-# Deployment Link: https://kirankumar00716.github.io/Omni-Food/
+# Deployment Link: https://omni-food-psi.vercel.app/
